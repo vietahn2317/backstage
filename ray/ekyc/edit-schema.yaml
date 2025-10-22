@@ -7,7 +7,7 @@ properties:
   job_name:
     type: string
     title: Job Name
-    default: hello_bro_1
+    default: hello_bro_4
 
   num_cpus:
     type: integer
@@ -18,4 +18,4 @@ properties:
   script:
     type: string
     title: Script to Execute
-    default: exa.py
+    default: exa4.pyss

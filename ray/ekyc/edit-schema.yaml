@@ -18,4 +18,4 @@ properties:
   script:
     type: string
     title: Script to Execute
-    default: exa4.pyss
+    default: exa4.py

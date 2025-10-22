@@ -1,0 +1,21 @@
+required:
+  - job_name
+  - num_cpus
+  - script
+
+properties:
+  job_name:
+    type: string
+    title: Job Name
+    default: my_ray_job
+
+  num_cpus:
+    type: integer
+    title: Number of CPUs
+    default: 10
+    minimum: 1
+
+  script:
+    type: string
+    title: Script to Execute
+    default: example.py

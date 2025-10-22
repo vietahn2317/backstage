@@ -7,7 +7,7 @@ properties:
   job_name:
     type: string
     title: Job Name
-    default: my_ray_job
+    default: hello bro :v
 
   num_cpus:
     type: integer

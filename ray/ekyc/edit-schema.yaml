@@ -18,4 +18,4 @@ properties:
   script:
     type: string
     title: Script to Execute
-    default: example.py
+    default: exa.o

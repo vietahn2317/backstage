@@ -7,7 +7,7 @@ properties:
   job_name:
     type: string
     title: Job Name
-    default: hello_bro_4
+    default: hello_bro_5
 
   num_cpus:
     type: integer
